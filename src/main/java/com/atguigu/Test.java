@@ -5,6 +5,7 @@ public class Test {
         System.out.println("黄世豪的java学有小成。");
         System.out.println("继续学，才发现鸡毛个有小成啊。");
         System.out.println("越学越感觉，我是一个井底之蛙。");
-        System.out.println("虽是井底之蛙，也得向大世界进发");
+        System.out.println("虽是井底之蛙，也得向大世界进发。");
+        System.out.println("世界是美好的，一定要努力。");
     }
 }
